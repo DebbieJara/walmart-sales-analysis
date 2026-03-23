@@ -30,7 +30,7 @@ walmart-sales-analysis/
 ├── Proyecto_2_Resumen_Ejecutivo_Ventas_Walmart.xlsx   # Full analysis file
 └── README.md                                           # Project documentation
 
-🎓 Context
+  Context
 This project was completed as part of the TripleTen Data Analytics Bootcamp (2026).
 
 By Deborah Jara | Data Analyst | Mexico
