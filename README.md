@@ -52,7 +52,6 @@ Data quality checks surfaced 6,435 records without assigned departments, 27 nega
 SQL (PostgreSQL) · Google Sheets · VLOOKUP · Pivot Tables · COUNTIF · Dashboard Design · Data Quality Validation
 
 ### Project Structure
-### Project Structure
 ```
 walmart-sales-analysis/
 │
